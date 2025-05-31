@@ -24,8 +24,6 @@ Date: June 01, 2025
 
 ## Table of Contents
 
-- [Web Scraping and Pandas Project](#web-scraping-and-pandas-project)
-- [web_scraping_pandas_python_project](#web_scraping_pandas_python_project)
   - [Author](#author)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
