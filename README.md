@@ -1,7 +1,5 @@
 # Web Scraping and Pandas Project
 
-# web_scraping_pandas_python_project
-
 ---
 
 Python-based Web Scraping and Data Processing project implemented in a Jupyter Notebook to extract data from a Wikipedia page, process it into a Pandas DataFrame, and export it as a CSV file.
